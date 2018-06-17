@@ -2,8 +2,8 @@
 -wjhDuck
 +# Duck类图
 +
-+![image1](https://github.com/cumtwangjunhui/guitar2/blob/master/guitarimage/1.PNG)
++![image1](https://github.com/cumtwangjunhui/wjhDuck/blob/master/wjhDuckimage/Duckclassimage.png)
+
+++# Duck测试
++![image2]([image1](https://github.com/cumtwangjunhui/wjhDuck/blob/master/wjhDuckimage/wjhducktest.png))
 +
-+![image2](https://github.com/cumtwangjunhui/guitar2/blob/master/guitarimage/2.PNG)
-+
-+![image3](https://github.com/cumtwangjunhui/guitar2/blob/master/guitarimage/3.PNG)
