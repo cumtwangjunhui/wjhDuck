@@ -5,5 +5,5 @@
 +![image1](https://github.com/cumtwangjunhui/wjhDuck/blob/master/wjhDuckimage/Duckclassimage.png)
 
 ++# Duck测试
-+![image2]([image1](https://github.com/cumtwangjunhui/wjhDuck/blob/master/wjhDuckimage/wjhducktest.png))
++![image2](https://github.com/cumtwangjunhui/wjhDuck/blob/master/wjhDuckimage/wjhducktest.png)
 +
